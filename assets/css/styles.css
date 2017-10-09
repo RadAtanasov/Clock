@@ -3,9 +3,24 @@
   padding: 0;
 }
 .clock_face{
-  width: 650px;
-  height: 650px;
-  border: 2px solid #000;
+  width: 450px;
+  height: 450px;
+  border: 10px solid #D4DCE3;
   border-radius: 50%;
+  position: relative;
   margin: auto;
+}
+.minute60{
+  width: 5px;
+  height: 20px;
+  border: 1px solid #000;
+  margin: auto;
+}
+.minute30{
+  width: 5px;
+  height: 20px;
+  border: 1px solid #000;
+  position: absolute;
+  bottom: 0;
+  left: 222px;
 }
