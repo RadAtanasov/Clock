@@ -10,17 +10,28 @@
   position: relative;
   margin: auto;
 }
-.minute60{
+.minute0_30{
+  width: 5px;
+  height: 450px;
+/*  border: 1px solid #000;*/
+  margin: auto;
+  position: relative;
+}
+.minute0{
   width: 5px;
   height: 20px;
   border: 1px solid #000;
-  margin: auto;
+  border-radius: 5px;
+  background-color: #000;
+  position: absolute;
+  top: 0;
 }
 .minute30{
   width: 5px;
   height: 20px;
   border: 1px solid #000;
+  border-radius: 5px;
+  background-color: #000;
   position: absolute;
   bottom: 0;
-  left: 222px;
 }
