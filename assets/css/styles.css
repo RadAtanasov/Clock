@@ -14,6 +14,34 @@
   position: absolute;
   width: 100%
 }
+.middle{
+  height: 410px;
+  margin-bottom: 10px;
+}
+.minute{
+  width: 10px;
+  height: 10px;
+  box-sizing: border-box;
+  border: 1px solid #000;
+  border-radius: 50%;
+  background-color: #000;
+  margin: auto;
+  margin-top: 5px;
+}
+.small_middle{
+  height: 410px;
+  margin-bottom: 11px;
+}
+.small_minute{
+  width: 5px;
+  height: 5px;
+  box-sizing: border-box;
+  border: 1px solid #000;
+  border-radius: 50%;
+  background-color: #000;
+  margin: auto;
+  margin-top: 9px;
+}
 .minute0_30{
   width: 40px;
   height: 100%;
@@ -21,28 +49,38 @@
   left: 50%;
   margin-left: -20px;
 }
-.minute15_45{
+.minute1_31{
   width: 40px;
   height: 100%;
   position: relative;
   left: 50%;
   margin-left: -20px;
-  transform: rotate(90deg);
+  transform: rotate(6deg);
 }
-
-.middle{
-  height: 410px;
+.minute2_32{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(12deg);
 }
-.minute{
-  width: 6px;
-  height: 20px;
-  box-sizing: border-box;
-  border: 1px solid #000;
-  border-radius: 5px;
-  background-color: #000;
-  margin: auto;
+.minute3_33{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(18deg);
 }
-
+.minute4_34{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(24deg);
+}
 .minute5_35{
   width: 40px;
   height: 100%;
@@ -50,6 +88,38 @@
   left: 50%;
   margin-left: -20px;
   transform: rotate(30deg);
+}
+.minute6_36{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(36deg);
+}
+.minute7_37{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(42deg);
+}
+.minute8_38{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(48deg);
+}
+.minute9_39{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(54deg);
 }
 .minute10_40{
   width: 40px;
@@ -59,6 +129,79 @@
   margin-left: -20px;
   transform: rotate(60deg);
 }
+.minute11_41{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(66deg);
+}
+.minute12_42{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(72deg);
+}
+.minute13_43{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(78deg);
+}
+.minute14_44{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(84deg);
+}
+.minute15_45{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(90deg);
+}
+.minute16_46{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(96deg);
+}
+.minute17_47{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(102deg);
+}
+.minute18_48{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(108deg);
+}
+.minute19_49{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(114deg);
+}
+
 .minute20_50{
   width: 40px;
   height: 100%;
@@ -66,6 +209,38 @@
   left: 50%;
   margin-left: -20px;
   transform: rotate(120deg);
+}
+.minute21_51{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(126deg);
+}
+.minute22_52{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(132deg);
+}
+.minute23_53{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(138deg);
+}
+.minute24_54{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(144deg);
 }
 .minute25_55{
   width: 40px;
@@ -75,4 +250,35 @@
   margin-left: -20px;
   transform: rotate(150deg);
 }
-
+.minute26_56{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(156deg);
+}
+.minute27_57{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(162deg);
+}
+.minute28_58{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(168deg);
+}
+.minute29_59{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(174deg);
+}
