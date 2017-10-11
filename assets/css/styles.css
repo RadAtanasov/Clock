@@ -42,3 +42,37 @@
   background-color: #000;
   margin: auto;
 }
+
+.minute5_35{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(30deg);
+}
+.minute10_40{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(60deg);
+}
+.minute20_50{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(120deg);
+}
+.minute25_55{
+  width: 40px;
+  height: 100%;
+  position: relative;
+  left: 50%;
+  margin-left: -20px;
+  transform: rotate(150deg);
+}
+
