@@ -21,7 +21,7 @@
   left: 50%;
   margin-top: -120px;
   margin-left: -5px;
-  transform: rotate(60deg);
+  display: none;
   transform-origin: 50% 120px;
   z-index: 8;
 }
@@ -36,7 +36,7 @@
   left: 50%;
   margin-top: -170px;
   margin-left: -3px;
-  transform: rotate(30deg);
+  display: none;
   transform-origin: 50% 170px;
   z-index: 9;
 }
@@ -49,6 +49,7 @@
   left: 50%;
   margin-top: -200px;
   margin-left: -2px;
+  display: none;
   transform-origin: 50% 200px;
   z-index: 10;
 }
