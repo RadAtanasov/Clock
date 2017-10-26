@@ -9,6 +9,7 @@
   border-radius: 50%;
   position: relative;
   margin: auto;
+  margin-top: 40px;
 }
 .hour_hand{
   width: 10px;
